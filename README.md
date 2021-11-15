@@ -1,6 +1,6 @@
-# Booking Web Crawler
-* Booking.com_Hotel：爬取 Booking.com 的飯店。
-* Booking.com_Review：爬取 Booking.com 的住客評語。 
+# Booking.com Web Crawler
+* Booking.com_Hotel：爬取飯店。
+* Booking.com_Review：爬取住客評語。 
 ## 安裝套件
 Booking.com_Hotel：
 ```
