@@ -1,4 +1,4 @@
-# Booking.com Web Crawler
+# Web Crawler
 * Booking.com_Hotel：爬取飯店。
 * Booking.com_Review：爬取住客評語。 
 * PTT_Board：爬取 PTT 文章。
